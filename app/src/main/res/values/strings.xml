@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MultiAppLauncher</string>
+    <string-array name="cities_array">
+        <item>New York</item>
+        <item>Los Angeles</item>
+        <item>Chicago</item>
+        <item>Houston</item>
+        <item>Phoenix</item>
+    </string-array>
+    <string-array name="city_facts_array">
+        <item>New York City comprises 5 boroughs sitting where the Hudson River meets the Atlantic Ocean.</item>
+        <item>Los Angeles is known for its Mediterranean climate, ethnic diversity, Hollywood entertainment industry, and sprawling metropolis.</item>
+        <item>Chicago is known for its impressive architecture, particularly the Willis Tower (formerly the Sears Tower).</item>
+        <item>Houston is the largest city in Texas and is known for its space research and the NASA Space Center.</item>
+        <item>Phoenix is known for its year-round sun and warm temperatures, and it anchors a sprawling, multicity metropolitan area known as the Valley of the Sun.</item>
+    </string-array>
+    <string-array name="operations">
+        <item>Addition</item>
+        <item>Subtraction</item>
+        <item>Multiplication</item>
+        <item>Division</item>
+    </string-array>
+</resources>
